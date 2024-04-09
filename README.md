@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Marven-Torres
-- 👀 I’m interested in JavaScript Coding
-- 📫 How to reach me: mte9981@gmail.com
+# About Me Extended
+I like JavaScript and HTML/CSS, Contact me to a special request for JavaScript and/or HTML.
+
+
+Contact: mte9981@gmail.com
